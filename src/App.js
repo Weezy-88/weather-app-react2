@@ -8,6 +8,7 @@ export default function App() {
         <a
           href="https://github.com/Weezy-88/weather-app-react2"
           target="_blank"
+          rel="noreferrer"
         >
           Github
         </a>{" "}
